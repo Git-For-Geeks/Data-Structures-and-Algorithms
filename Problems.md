@@ -21,7 +21,7 @@
 | Sr. no | Problem Name | Link | Assignee |
 | --- | --- | --- | --- |
 | 1 | At least two greater elements | https://practice.geeksforgeeks.org/problems/at-least-two-greater-elements4625/1 |
-| 2 | Kth smallest element | https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1 |
+| 2 | Kth smallest element | https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1 | chandakrohit8 |
 | 3 | Combination Sum | https://leetcode.com/problems/combination-sum/ |
 | 4 | Two Sum | https://leetcode.com/problems/two-sum/ | MinalGhate |
 | 5 | 3Sum | https://leetcode.com/problems/3sum/ |
@@ -52,7 +52,7 @@
 | Sr. no | Problem Name | Link | Assignee |
 | --- | --- | --- | --- |
 | 1 | Longest Substring Without Repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters/ |
-| 2 | Longest Palindromic Substring | https://leetcode.com/problems/longest-palindromic-substring/ |
+| 2 | Longest Palindromic Substring | https://leetcode.com/problems/longest-palindromic-substring/ | chandakrohit8 |
 | 3 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix/ |
 | 4 | Cells in a Range on an Excel Sheet | https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/ |
 | 5 | Excel Sheet Column Number | https://leetcode.com/problems/excel-sheet-column-number/ |
