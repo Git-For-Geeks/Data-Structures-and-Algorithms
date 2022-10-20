@@ -92,7 +92,8 @@ File Name : ProblemNumber_ProblemName.extension {ex : 4_Two_Sum.cpp }
 3. All of your codes should be in same branch named as your github username 
    Suppose you are solving 6 problems from this REPO throughout your journey of 10 days, 
    then all of this folders should be in same branch
-
+   
+4. Add only function and explanation in your code, No need to add input-output
 ```
 
 
