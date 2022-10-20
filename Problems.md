@@ -139,7 +139,7 @@
 | 10 | Postorder Traversal in c++ | https://practice.geeksforgeeks.org/problems/postorder-traversal/1 |
 | 11 | Postorder Traversal in java | https://practice.geeksforgeeks.org/problems/postorder-traversal/1 |
 | 12 | Postorder Traversal in python | https://practice.geeksforgeeks.org/problems/postorder-traversal/1 |
-| 13 | Level-order Traversal in c | https://leetcode.com/problems/binary-tree-level-order-traversal/ |
+| 13 | Level-order Traversal in c | https://leetcode.com/problems/binary-tree-level-order-traversal/ | reemakhandelwal  |
 | 14 | Level-order Traversal in c++ | https://practice.geeksforgeeks.org/problems/level-order-traversal/1 |
 | 15 | Level-order Traversal in java | https://practice.geeksforgeeks.org/problems/level-order-traversal/1 |
 | 16 | Level-order Traversal in Python | https://practice.geeksforgeeks.org/problems/level-order-traversal/1 |
@@ -213,7 +213,7 @@
 | 6 | Implement Binary Search in c++ | https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1 |
 | 7 | Implement Binary Search in Java | https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1 |
 | 8 | Implement Binary Search in python | https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1 |
-| 9 | Bubble Sort | https://practice.geeksforgeeks.org/problems/bubble-sort/1 |
+| 9 | Bubble Sort | https://practice.geeksforgeeks.org/problems/bubble-sort/1 | reemakhandelwal  |
 | 10 | Insertion Sort | https://practice.geeksforgeeks.org/problems/insertion-sort/1 |
 | 11 | Selection Sort | https://practice.geeksforgeeks.org/problems/selection-sort/1 |
 | 12 | Merge Sort | https://practice.geeksforgeeks.org/problems/merge-sort/1 |
