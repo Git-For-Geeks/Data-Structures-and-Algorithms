@@ -24,7 +24,7 @@
 | 2 | Kth smallest element | https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1 | chandakrohit8 |
 | 3 | Combination Sum | https://leetcode.com/problems/combination-sum/ |
 | 4 | Two Sum | https://leetcode.com/problems/two-sum/ | MinalGhate |
-| 5 | 3Sum | https://leetcode.com/problems/3sum/ |
+| 5 | 3Sum | https://leetcode.com/problems/3sum/ | yxshwxnt |
 | 6 | 3Sum Closest | https://leetcode.com/problems/3sum-closest/ |
 | 7 | 4Sum | https://leetcode.com/problems/4sum/ |
 | 8 | Break a Palindrome | https://leetcode.com/problems/break-a-palindrome/ |
