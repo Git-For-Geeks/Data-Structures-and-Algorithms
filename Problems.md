@@ -2,12 +2,12 @@
 
 ## Mathematics
 
-| Sr. no | Problem Name | Link |
-| --- | --- | --- |
+| Sr. no | Problem Name | Link | Assignee |
+| --- | --- | --- | --- |
 | 1 | Paint the Numbers | https://codeforces.com/problemset/problem/1209/A |
 | 2 | k-Factorization | https://codeforces.com/problemset/problem/797/A |
 | 3 | Excel Sheet Column Title | https://leetcode.com/problems/excel-sheet-column-title/ |
-| 4 | Integer to Roman | https://leetcode.com/problems/integer-to-roman/ |
+| 4 | Integer to Roman | https://leetcode.com/problems/integer-to-roman/ | srushti-dhakate-2210 |
 | 5 | Accumulation of Dominoes | https://codeforces.com/problemset/problem/1725/A |
 | 6 | Two Elevators | https://codeforces.com/problemset/problem/1729/A |
 | 7 | Multiple of 3 | https://www.codechef.com/problems/MULTHREE |
@@ -18,8 +18,8 @@
 
 ## Arrays
 
-| Sr. no | Problem Name | Link |
-| --- | --- | --- |
+| Sr. no | Problem Name | Link | Assignee |
+| --- | --- | --- | --- |
 | 1 | At least two greater elements | https://practice.geeksforgeeks.org/problems/at-least-two-greater-elements4625/1 |
 | 2 | Kth smallest element | https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1 |
 | 3 | Combination Sum | https://leetcode.com/problems/combination-sum/ |
@@ -31,7 +31,7 @@
 | 9 | Multiply Matrices | https://practice.geeksforgeeks.org/problems/multiply-matrices/1 |
 | 10 | Subarray with given sum | https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1 |
 | 11 | Union of two arrays | https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1 |
-| 12 | Maximum Subarray Sum | https://cses.fi/problemset/task/1643 |
+| 12 | Maximum Subarray Sum | https://cses.fi/problemset/task/1643 | reemakhandelwal  |
 | 13 | Longest consecutive subsequence | https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1 |
 | 14 | Sort the Matrix Diagonally | https://leetcode.com/problems/sort-the-matrix-diagonally/ |
 | 15 | Subsets II | https://leetcode.com/problems/subsets-ii/ |
