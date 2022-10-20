@@ -23,7 +23,7 @@
 | 1 | At least two greater elements | https://practice.geeksforgeeks.org/problems/at-least-two-greater-elements4625/1 |
 | 2 | Kth smallest element | https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1 |
 | 3 | Combination Sum | https://leetcode.com/problems/combination-sum/ |
-| 4 | Two Sum | https://leetcode.com/problems/two-sum/ |
+| 4 | Two Sum | https://leetcode.com/problems/two-sum/ | MinalGhate |
 | 5 | 3Sum | https://leetcode.com/problems/3sum/ |
 | 6 | 3Sum Closest | https://leetcode.com/problems/3sum-closest/ |
 | 7 | 4Sum | https://leetcode.com/problems/4sum/ |
