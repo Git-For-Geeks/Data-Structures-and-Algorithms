@@ -78,7 +78,7 @@
 | Sr. no | Problem Name | Link | Assignee |
 | --- | --- | --- | --- |
 | 1 | Implement Linked List in c | https://leetcode.com/problems/design-linked-list/ |
-| 2 | Implement Linked List in c++ | https://leetcode.com/problems/design-linked-list/ |
+| 2 | Implement Linked List in c++ | https://leetcode.com/problems/design-linked-list/ | yash14agr |
 | 3 | Implement Linked List in java | https://leetcode.com/problems/design-linked-list/ |
 | 4 | Implement Linked List in python | https://leetcode.com/problems/design-linked-list/ |
 | 5 | Reverse Linked List | https://leetcode.com/problems/reverse-linked-list/ |
