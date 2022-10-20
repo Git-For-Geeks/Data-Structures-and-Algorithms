@@ -10,7 +10,7 @@
 | 4 | Integer to Roman | https://leetcode.com/problems/integer-to-roman/ | srushti-dhakate-2210 |
 | 5 | Accumulation of Dominoes | https://codeforces.com/problemset/problem/1725/A |
 | 6 | Two Elevators | https://codeforces.com/problemset/problem/1729/A |
-| 7 | Multiple of 3 | https://www.codechef.com/problems/MULTHREE |
+| 7 | Multiple of 3 | https://www.codechef.com/problems/MULTHREE |srushti-dhakate-2210 |
 | 8 | Exponentiation II | https://cses.fi/problemset/task/1712 |
 | 9 | Counting Coprime Pairs | https://cses.fi/problemset/task/2417 |
 | 10 | Grundy's Game | https://cses.fi/problemset/task/2207 |
@@ -48,8 +48,9 @@
 
 ## Strings
 
-| Sr. no | Problem Name | Link |
-| --- | --- | --- |
+
+| Sr. no | Problem Name | Link | Assignee |
+| --- | --- | --- | --- |
 | 1 | Longest Substring Without Repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters/ |
 | 2 | Longest Palindromic Substring | https://leetcode.com/problems/longest-palindromic-substring/ |
 | 3 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix/ |
@@ -73,8 +74,9 @@
 
 ## LinkedList
 
-| Sr. no | Problem Name | Link |
-| --- | --- | --- |
+
+| Sr. no | Problem Name | Link | Assignee |
+| --- | --- | --- | --- |
 | 1 | Implement Linked List in c | https://leetcode.com/problems/design-linked-list/ |
 | 2 | Implement Linked List in c++ | https://leetcode.com/problems/design-linked-list/ |
 | 3 | Implement Linked List in java | https://leetcode.com/problems/design-linked-list/ |
@@ -89,8 +91,9 @@
 
 ## Stack
 
-| Sr. no | Problem Name | Link |
-| --- | --- | --- |
+
+| Sr. no | Problem Name | Link | Assignee |
+| --- | --- | --- | --- |
 | 1 | Implement Stack in C |  https://leetcode.com/problems/build-an-array-with-stack-operations/ |
 | 2 | Implement Stack in C++ | https://leetcode.com/problems/build-an-array-with-stack-operations/ |
 | 3 | Implement Stack in java | https://leetcode.com/problems/build-an-array-with-stack-operations/ |
@@ -104,8 +107,9 @@
 
 ## Queue
 
-| Sr. no | Problem Name | Link |
-| --- | --- | --- |
+
+| Sr. no | Problem Name | Link | Assignee |
+| --- | --- | --- | --- |
 | 1 | Implement Queue using array in C | https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1 |
 | 2 | Implement Queue using array in C++ | https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1 |
 | 3 | Implement Queue using array in Java | https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1 |
@@ -120,8 +124,9 @@
 
 ## Trees
 
-| Sr. no | Problem Name | Link |
-| --- | --- | --- |
+
+| Sr. no | Problem Name | Link | Assignee |
+| --- | --- | --- | --- |
 | 1 | Preorder Traversal in c | https://leetcode.com/problems/binary-tree-preorder-traversal/ |
 | 2 | Preorder Traversal in c++ | https://leetcode.com/problems/binary-tree-preorder-traversal/ |
 | 3 | Preorder Traversal in java | https://leetcode.com/problems/binary-tree-preorder-traversal/ |
@@ -150,8 +155,9 @@
 
 ## Graphs
 
-| Sr. no | Problem Name | Link |
-| --- | --- | --- |
+
+| Sr. no | Problem Name | Link | Assignee |
+| --- | --- | --- | --- |
 | 1 | BFS of graph in c | https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1 |
 | 2 | BFS of graph in c++ | https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1 |
 | 3 | BFS of graph in java | https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1 |
@@ -180,8 +186,9 @@
 
 ## Dynamic Programming
 
-| Sr. no | Problem Name | Link |
-| --- | --- | --- |
+
+| Sr. no | Problem Name | Link | Assignee |
+| --- | --- | --- | --- |
 | 1 | Longest Palindromic Substring | https://leetcode.com/problems/longest-palindromic-substring/ |
 | 2 | Generate Parentheses | https://leetcode.com/problems/generate-parentheses/ |
 | 3 | Coin Change | https://leetcode.com/problems/coin-change/ |
@@ -195,8 +202,9 @@
 
 ## Sorting and Searching
 
-| Sr. no | Problem Name | Link |
-| --- | --- | --- |
+
+| Sr. no | Problem Name | Link | Assignee |
+| --- | --- | --- | --- |
 | 1 | Implement Linear Search in c | https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 |
 | 2 | Implement Linear Search in c++ | https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 |
 | 3 | Implement Linear Search in Java | https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 |
