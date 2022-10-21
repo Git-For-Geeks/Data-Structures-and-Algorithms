@@ -97,7 +97,7 @@
 | 1 | Implement Stack in C |  https://leetcode.com/problems/build-an-array-with-stack-operations/ |
 | 2 | Implement Stack in C++ | https://leetcode.com/problems/build-an-array-with-stack-operations/ |
 | 3 | Implement Stack in java | https://leetcode.com/problems/build-an-array-with-stack-operations/ |
-| 4 | Implement Stack in python | https://leetcode.com/problems/build-an-array-with-stack-operations/ |
+| 4 | Implement Stack in python | https://leetcode.com/problems/build-an-array-with-stack-operations/ | Chirag-01 |
 | 5 | Valid Parentheses | https://leetcode.com/problems/valid-parentheses/ | chandakrohit8 |
 | 6 | Longest Valid Parentheses | https://leetcode.com/problems/longest-valid-parentheses/ |
 | 7 | Tower of Hanoi | https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1 |
