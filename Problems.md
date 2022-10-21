@@ -27,7 +27,7 @@
 | 5 | 3Sum | https://leetcode.com/problems/3sum/ | yxshwxnt |
 | 6 | 3Sum Closest | https://leetcode.com/problems/3sum-closest/ |
 | 7 | 4Sum | https://leetcode.com/problems/4sum/ |
-| 8 | Break a Palindrome | https://leetcode.com/problems/break-a-palindrome/ |
+| 8 | Break a Palindrome | https://leetcode.com/problems/break-a-palindrome/ | SiddheshJawadi |
 | 9 | Multiply Matrices | https://practice.geeksforgeeks.org/problems/multiply-matrices/1 |
 | 10 | Subarray with given sum | https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1 |
 | 11 | Union of two arrays | https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1 |Tanish1508|
