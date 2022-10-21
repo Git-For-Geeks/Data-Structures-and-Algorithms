@@ -85,7 +85,7 @@
 | 6 | Reverse Linked List II | https://leetcode.com/problems/reverse-linked-list-ii/ |
 | 7 | Reverse a Linked List in groups | https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1 |
 | 8 | Union of Doubly Linked Lists | https://codeforces.com/problemset/problem/847/A |
-| 9 | Delete the Middle Node of a Linked List | https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/ |
+| 9 | Delete the Middle Node of a Linked List | https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/ | chandakrohit8 |
 | 10 | Delete Node in a Linked List | https://leetcode.com/problems/delete-node-in-a-linked-list/ |
 | 11 | Design a Text Editor | https://leetcode.com/problems/design-a-text-editor/ |
 
@@ -98,7 +98,7 @@
 | 2 | Implement Stack in C++ | https://leetcode.com/problems/build-an-array-with-stack-operations/ |
 | 3 | Implement Stack in java | https://leetcode.com/problems/build-an-array-with-stack-operations/ |
 | 4 | Implement Stack in python | https://leetcode.com/problems/build-an-array-with-stack-operations/ |
-| 5 | Valid Parentheses | https://leetcode.com/problems/valid-parentheses/ |
+| 5 | Valid Parentheses | https://leetcode.com/problems/valid-parentheses/ | chandakrohit8 |
 | 6 | Longest Valid Parentheses | https://leetcode.com/problems/longest-valid-parentheses/ |
 | 7 | Tower of Hanoi | https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1 |
 | 8 | Next Greater Element II | https://leetcode.com/problems/next-greater-element-ii/ |
