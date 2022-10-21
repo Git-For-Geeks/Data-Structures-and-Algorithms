@@ -10,7 +10,7 @@ public:
         // code here
         // Here we are using a priority queue in which we push all the array elements .
         // To be precosed we are using the heap property of the priority queuue and the no would be sorted accordingly and the highest value would be at the top and the lowest element would be at the bottom of the priority queue F
-        priority_queue<int> q;
+         priority_queue <int> q;
         // We use the for loop which starts from beginning of the array upto the end of the array
         for (int i = l; i <= r; i++)
         {
