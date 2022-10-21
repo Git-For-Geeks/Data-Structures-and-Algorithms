@@ -9,7 +9,7 @@
 | 3 | Excel Sheet Column Title | https://leetcode.com/problems/excel-sheet-column-title/ |
 | 4 | Integer to Roman | https://leetcode.com/problems/integer-to-roman/ | srushti-dhakate-2210 |
 | 5 | Accumulation of Dominoes | https://codeforces.com/problemset/problem/1725/A |
-| 6 | Two Elevators | https://codeforces.com/problemset/problem/1729/A |
+| 6 | Two Elevators | https://codeforces.com/problemset/problem/1729/A | sahilhedau49 |
 | 7 | Multiple of 3 | https://www.codechef.com/problems/MULTHREE |srushti-dhakate-2210 |
 | 8 | Exponentiation II | https://cses.fi/problemset/task/1712 |
 | 9 | Counting Coprime Pairs | https://cses.fi/problemset/task/2417 |
@@ -44,7 +44,7 @@
 | 22 | Trapping Rain Water II | https://leetcode.com/problems/trapping-rain-water-ii/ |
 | 23 | MO’s Algorithm | https://practice.geeksforgeeks.org/problems/interesting-queries4742/1 |
 | 24 | Sudoku Solver | https://leetcode.com/problems/sudoku-solver/ |
-| 25 | Median of Two Sorted Arrays | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
+| 25 | Median of Two Sorted Arrays | https://leetcode.com/problems/median-of-two-sorted-arrays/ | Sansgupta25 |
 
 ## Strings
 
