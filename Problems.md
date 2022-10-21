@@ -5,7 +5,7 @@
 | Sr. no | Problem Name | Link | Assignee |
 | --- | --- | --- | --- |
 | 1 | Paint the Numbers | https://codeforces.com/problemset/problem/1209/A |
-| 2 | k-Factorization | https://codeforces.com/problemset/problem/797/A |
+| 2 | k-Factorization | https://codeforces.com/problemset/problem/797/A | SiddheshJawadi |
 | 3 | Excel Sheet Column Title | https://leetcode.com/problems/excel-sheet-column-title/ |
 | 4 | Integer to Roman | https://leetcode.com/problems/integer-to-roman/ | srushti-dhakate-2210 |
 | 5 | Accumulation of Dominoes | https://codeforces.com/problemset/problem/1725/A |
@@ -14,7 +14,7 @@
 | 8 | Exponentiation II | https://cses.fi/problemset/task/1712 |
 | 9 | Counting Coprime Pairs | https://cses.fi/problemset/task/2417 |
 | 10 | Grundy's Game | https://cses.fi/problemset/task/2207 |
-| 11 | Roman to Integer | https://leetcode.com/problems/roman-to-integer/ |
+| 11 | Roman to Integer | https://leetcode.com/problems/roman-to-integer/ | MinalGhate |
 
 ## Arrays
 
