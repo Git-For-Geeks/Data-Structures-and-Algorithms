@@ -30,7 +30,7 @@
 | 8 | Break a Palindrome | https://leetcode.com/problems/break-a-palindrome/ |
 | 9 | Multiply Matrices | https://practice.geeksforgeeks.org/problems/multiply-matrices/1 |
 | 10 | Subarray with given sum | https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1 |
-| 11 | Union of two arrays | https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1 |
+| 11 | Union of two arrays | https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1 |Tanish1508|
 | 12 | Maximum Subarray Sum | https://cses.fi/problemset/task/1643 | reemakhandelwal  |
 | 13 | Longest consecutive subsequence | https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1 |
 | 14 | Sort the Matrix Diagonally | https://leetcode.com/problems/sort-the-matrix-diagonally/ |
@@ -77,7 +77,7 @@
 
 | Sr. no | Problem Name | Link | Assignee |
 | --- | --- | --- | --- |
-| 1 | Implement Linked List in c | https://leetcode.com/problems/design-linked-list/ |
+| 1 | Implement Linked List in c | https://leetcode.com/problems/design-linked-list/ |Tanish1508|
 | 2 | Implement Linked List in c++ | https://leetcode.com/problems/design-linked-list/ | yash14agr |
 | 3 | Implement Linked List in java | https://leetcode.com/problems/design-linked-list/ |
 | 4 | Implement Linked List in python | https://leetcode.com/problems/design-linked-list/ |
@@ -221,7 +221,7 @@
 | 14 | Radix Sort | https://practice.geeksforgeeks.org/problems/radix-sort/1 |
 | 15 | Heap Sort | https://practice.geeksforgeeks.org/problems/heap-sort/1 |
 | 16 | Counting Sort | https://practice.geeksforgeeks.org/problems/counting-sort/1 |
-| 17 | Sort Colors (Using Dutch Flag Algorithm) | https://leetcode.com/problems/sort-colors/ |
+| 17 | Sort Colors (Using Dutch Flag Algorithm) | https://leetcode.com/problems/sort-colors/ |yxshwxnt|
 | 18 | Banana | https://codeforces.com/contest/335/problem/A |
 | 19 | The Rank | https://codeforces.com/problemset/problem/1017/A |
 | 20 | Concert Tickets | https://cses.fi/problemset/task/1091 |
