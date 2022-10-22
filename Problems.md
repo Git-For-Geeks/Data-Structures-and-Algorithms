@@ -28,7 +28,7 @@
 | 6 | 3Sum Closest | https://leetcode.com/problems/3sum-closest/ |
 | 7 | 4Sum | https://leetcode.com/problems/4sum/ |
 | 8 | Break a Palindrome | https://leetcode.com/problems/break-a-palindrome/ | SiddheshJawadi |
-| 9 | Multiply Matrices | https://practice.geeksforgeeks.org/problems/multiply-matrices/1 |
+| 9 | Multiply Matrices | https://practice.geeksforgeeks.org/problems/multiply-matrices/1 | abhashgoyal |
 | 10 | Subarray with given sum | https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1 |
 | 11 | Union of two arrays | https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1 |Tanish1508|
 | 12 | Maximum Subarray Sum | https://cses.fi/problemset/task/1643 | reemakhandelwal  |
@@ -65,7 +65,7 @@
 | 12 | Longest Substring with At Least K Repeating Characters | https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/ |
 | 13 | Restore IP Addresses | https://leetcode.com/problems/restore-ip-addresses/ |
 | 14 | Last Substring in Lexicographical Order | https://leetcode.com/problems/last-substring-in-lexicographical-order/ |
-| 15 | Strong Password Checker | https://leetcode.com/problems/strong-password-checker/ | JanWeeee
+| 15 | Strong Password Checker | https://leetcode.com/problems/strong-password-checker/ | JanWeeee |
 | 16 | Find the Shortest Superstring | https://leetcode.com/problems/find-the-shortest-superstring/ |
 | 17 | Text Justification | https://leetcode.com/problems/text-justification/ |
 | 18 | Design a Text Editor | https://leetcode.com/problems/design-a-text-editor/ |
@@ -81,12 +81,12 @@
 | 2 | Implement Linked List in c++ | https://leetcode.com/problems/design-linked-list/ | yash14agr |
 | 3 | Implement Linked List in java | https://leetcode.com/problems/design-linked-list/ |
 | 4 | Implement Linked List in python | https://leetcode.com/problems/design-linked-list/ |
-| 5 | Reverse Linked List | https://leetcode.com/problems/reverse-linked-list/ | yash14agr
+| 5 | Reverse Linked List | https://leetcode.com/problems/reverse-linked-list/ | yash14agr |
 | 6 | Reverse Linked List II | https://leetcode.com/problems/reverse-linked-list-ii/ |
 | 7 | Reverse a Linked List in groups | https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1 |
 | 8 | Union of Doubly Linked Lists | https://codeforces.com/problemset/problem/847/A |
 | 9 | Delete the Middle Node of a Linked List | https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/ | chandakrohit8 |
-| 10 | Delete Node in a Linked List | https://leetcode.com/problems/delete-node-in-a-linked-list/ |
+| 10 | Delete Node in a Linked List | https://leetcode.com/problems/delete-node-in-a-linked-list/ | Sansgupta25 |
 | 11 | Design a Text Editor | https://leetcode.com/problems/design-a-text-editor/ |
 
 ## Stack
@@ -111,7 +111,7 @@
 | Sr. no | Problem Name | Link | Assignee |
 | --- | --- | --- | --- |
 | 1 | Implement Queue using array in C | https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1 | viftergr
-| 2 | Implement Queue using array in C++ | https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1 |
+| 2 | Implement Queue using array in C++ | https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1 | 
 | 3 | Implement Queue using array in Java | https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1 |
 | 4 | Implement Queue using array In Python | https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1 |
 | 5 | Queue using two Stacks | https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1 |
@@ -205,7 +205,7 @@
 
 | Sr. no | Problem Name | Link | Assignee |
 | --- | --- | --- | --- |
-| 1 | Implement Linear Search in c | https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 | Sansgupta25 
+| 1 | Implement Linear Search in c | https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 | Sansgupta25, jayasingh-14 |
 | 2 | Implement Linear Search in c++ | https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 |
 | 3 | Implement Linear Search in Java | https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 |
 | 4 | Implement Linear Search in python | https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 |
@@ -214,9 +214,9 @@
 | 7 | Implement Binary Search in Java | https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1 |
 | 8 | Implement Binary Search in python | https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1 |
 | 9 | Bubble Sort | https://practice.geeksforgeeks.org/problems/bubble-sort/1 | Nishantth1  |
-| 10 | Insertion Sort | https://practice.geeksforgeeks.org/problems/insertion-sort/1 |
+| 10 | Insertion Sort | https://practice.geeksforgeeks.org/problems/insertion-sort/1 | abhashgoyal |
 | 11 | Selection Sort | https://practice.geeksforgeeks.org/problems/selection-sort/1 |
-| 12 | Merge Sort | https://practice.geeksforgeeks.org/problems/merge-sort/1 | reemakhandelwal
+| 12 | Merge Sort | https://practice.geeksforgeeks.org/problems/merge-sort/1 | reemakhandelwal |
 | 13 | Quick Sort | https://practice.geeksforgeeks.org/problems/quick-sort/1 |
 | 14 | Radix Sort | https://practice.geeksforgeeks.org/problems/radix-sort/1 |
 | 15 | Heap Sort | https://practice.geeksforgeeks.org/problems/heap-sort/1 |
