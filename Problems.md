@@ -206,12 +206,12 @@
 | Sr. no | Problem Name | Link | Assignee |
 | --- | --- | --- | --- |
 | 1 | Implement Linear Search in c | https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 | Sansgupta25, jayasingh-14 |
-| 2 | Implement Linear Search in c++ | https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 |
+| 2 | Implement Linear Search in c++ | https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 | Mrugal4 |
 | 3 | Implement Linear Search in Java | https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 | MinalGhate |
 | 4 | Implement Linear Search in python | https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 |
 | 5 | Implement Binary Search in JavaScript | https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1 |
-| 6 | Implement Binary Search in c++ | https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1 |
-| 7 | Implement Binary Search in Java | https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1 |
+| 6 | Implement Binary Search in c++ | https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1 | 
+| 7 | Implement Binary Search in Java | https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1 |Mrugal4|
 | 8 | Implement Binary Search in python | https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1 |
 | 9 | Bubble Sort | https://practice.geeksforgeeks.org/problems/bubble-sort/1 | Nishantth1  |
 | 10 | Insertion Sort | https://practice.geeksforgeeks.org/problems/insertion-sort/1 | abhashgoyal |
