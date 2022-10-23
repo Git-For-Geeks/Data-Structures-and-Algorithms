@@ -4,7 +4,7 @@
 
 | Sr. no | Problem Name | Link | Assignee |
 | --- | --- | --- | --- |
-| 1 | Paint the Numbers | https://codeforces.com/problemset/problem/1209/A |
+| 1 | Paint the Numbers | https://codeforces.com/problemset/problem/1209/A | SiddheshJawadi |
 | 2 | k-Factorization | https://codeforces.com/problemset/problem/797/A | SiddheshJawadi |
 | 3 | Excel Sheet Column Title | https://leetcode.com/problems/excel-sheet-column-title/ |
 | 4 | Integer to Roman | https://leetcode.com/problems/integer-to-roman/ | srushti-dhakate-2210 |
@@ -20,7 +20,7 @@
 
 | Sr. no | Problem Name | Link | Assignee |
 | --- | --- | --- | --- |
-| 1 | At least two greater elements | https://practice.geeksforgeeks.org/problems/at-least-two-greater-elements4625/1 |
+| 1 | At least two greater elements | https://practice.geeksforgeeks.org/problems/at-least-two-greater-elements4625/1 | sahilhedau49 |
 | 2 | Kth smallest element | https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1 | chandakrohit8 |
 | 3 | Combination Sum | https://leetcode.com/problems/combination-sum/ |
 | 4 | Two Sum | https://leetcode.com/problems/two-sum/ | MinalGhate |
@@ -29,7 +29,7 @@
 | 7 | 4Sum | https://leetcode.com/problems/4sum/ |
 | 8 | Break a Palindrome | https://leetcode.com/problems/break-a-palindrome/ | SiddheshJawadi |
 | 9 | Multiply Matrices | https://practice.geeksforgeeks.org/problems/multiply-matrices/1 | abhashgoyal |
-| 10 | Subarray with given sum | https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1 |
+| 10 | Subarray with given sum | https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1 | yxshwxnt |
 | 11 | Union of two arrays | https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1 |Tanish1508|
 | 12 | Maximum Subarray Sum | https://cses.fi/problemset/task/1643 | reemakhandelwal  |
 | 13 | Longest consecutive subsequence | https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1 |
@@ -82,7 +82,7 @@
 | 3 | Implement Linked List in java | https://leetcode.com/problems/design-linked-list/ | SahilChharra |
 | 4 | Implement Linked List in python | https://leetcode.com/problems/design-linked-list/ |
 | 5 | Reverse Linked List | https://leetcode.com/problems/reverse-linked-list/ | yash14agr |
-| 6 | Reverse Linked List II | https://leetcode.com/problems/reverse-linked-list-ii/ |
+| 6 | Reverse Linked List II | https://leetcode.com/problems/reverse-linked-list-ii/ | Sansgupta25 |
 | 7 | Reverse a Linked List in groups | https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1 |
 | 8 | Union of Doubly Linked Lists | https://codeforces.com/problemset/problem/847/A |
 | 9 | Delete the Middle Node of a Linked List | https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/ | chandakrohit8 |
@@ -100,7 +100,7 @@
 | 4 | Implement Stack in python | https://leetcode.com/problems/build-an-array-with-stack-operations/ | Chirag-01 |
 | 5 | Valid Parentheses | https://leetcode.com/problems/valid-parentheses/ | chandakrohit8 |
 | 6 | Longest Valid Parentheses | https://leetcode.com/problems/longest-valid-parentheses/ |
-| 7 | Tower of Hanoi | https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1 |
+| 7 | Tower of Hanoi | https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1 | yxshwxnt |
 | 8 | Next Greater Element II | https://leetcode.com/problems/next-greater-element-ii/ |
 | 9 | Compilers and parsers | https://www.codechef.com/problems/COMPILER |
 | 10 | MMASS - Mass of Molecule | https://www.spoj.com/problems/MMASS/ |
@@ -114,13 +114,13 @@
 | 2 | Implement Queue using array in C++ | https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1 | 
 | 3 | Implement Queue using array in Java | https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1 |
 | 4 | Implement Queue using array In Python | https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1 |
-| 5 | Queue using two Stacks | https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1 |
+| 5 | Queue using two Stacks | https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1 | Sansgupta25 |
 | 6 | Implement Stack using Queues | https://leetcode.com/problems/implement-stack-using-queues/ |
 | 7 | Design Circular Queue | https://leetcode.com/problems/design-circular-queue/ |
 | 8 | Design Circular Deque | https://leetcode.com/problems/design-circular-deque/ |
 | 9 | Trapping Rain Water II | https://leetcode.com/problems/trapping-rain-water-ii/ |
 | 10 | Longest Increasing Subsequence II | https://leetcode.com/problems/longest-increasing-subsequence-ii/ |
-| 11 | Minimum Number of K Consecutive Bit Flips | https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/ |
+| 11 | Minimum Number of K Consecutive Bit Flips | https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/ | srushti-dhakate-2210 |
 
 ## Trees
 
@@ -151,7 +151,7 @@
 | 22 | Recover a Tree From Preorder Traversal | https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/ |
 | 23 | Merge two BST 's | https://practice.geeksforgeeks.org/problems/merge-two-bst-s/1 |
 | 24 | Number Of Ways To Reconstruct A Tree | https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/ |
-| 25 | Kth Ancestor of a Tree Node | https://leetcode.com/problems/kth-ancestor-of-a-tree-node/ |
+| 25 | Kth Ancestor of a Tree Node | https://leetcode.com/problems/kth-ancestor-of-a-tree-node/ | srushti-dhakate-2210 |
 
 ## Graphs
 
@@ -182,7 +182,7 @@
 | 22 | Min Cost to Connect All Points by kruskal | https://leetcode.com/problems/min-cost-to-connect-all-points/ |
 | 23 | Sequence Reconstruction | • https://leetcode.com/problems/sequence-reconstruction/ |
 | 24 | Network delay time | https://leetcode.com/problems/network-delay-time/ |
-| 25 | Largest Component Size by Common Factor | https://leetcode.com/problems/largest-component-size-by-common-factor/ |
+| 25 | Largest Component Size by Common Factor | https://leetcode.com/problems/largest-component-size-by-common-factor/ | srushti-dhakate-2210 |
 
 ## Dynamic Programming
 
@@ -198,7 +198,7 @@
 | 7 | Best Time to Buy and Sell Stock III | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ |
 | 8 | Best Time to Buy and Sell Stock IV | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/ |
 | 9 | Longest Valid Parentheses | https://leetcode.com/problems/longest-valid-parentheses/ |
-| 10 | Regular Expression Matching | https://leetcode.com/problems/regular-expression-matching/ |
+| 10 | Regular Expression Matching | https://leetcode.com/problems/regular-expression-matching/ | srushti-dhakate-2210 |
 
 ## Sorting and Searching
 
@@ -207,7 +207,7 @@
 | --- | --- | --- | --- |
 | 1 | Implement Linear Search in c | https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 | Sansgupta25, jayasingh-14 |
 | 2 | Implement Linear Search in c++ | https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 |
-| 3 | Implement Linear Search in Java | https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 |
+| 3 | Implement Linear Search in Java | https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 | MinalGhate |
 | 4 | Implement Linear Search in python | https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 |
 | 5 | Implement Binary Search in JavaScript | https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1 |
 | 6 | Implement Binary Search in c++ | https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1 |
@@ -223,5 +223,5 @@
 | 16 | Counting Sort | https://practice.geeksforgeeks.org/problems/counting-sort/1 |
 | 17 | Sort Colors (Using Dutch Flag Algorithm) | https://leetcode.com/problems/sort-colors/ |yxshwxnt|
 | 18 | Banana | https://codeforces.com/contest/335/problem/A |
-| 19 | The Rank | https://codeforces.com/problemset/problem/1017/A |
+| 19 | The Rank | https://codeforces.com/problemset/problem/1017/A | SiddheshJawadi |
 | 20 | Concert Tickets | https://cses.fi/problemset/task/1091 |
