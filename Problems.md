@@ -38,7 +38,7 @@
 | 16 | Range Sum Query - Mutable | https://leetcode.com/problems/range-sum-query-mutable/ |
 | 17 | Minimum Path Sum | https://leetcode.com/problems/minimum-path-sum/ |
 | 18 | Design an ATM Machine | https://leetcode.com/problems/design-an-atm-machine/ |
-| 19 | Next Permutation | https://leetcode.com/problems/next-permutation/ |
+| 19 | Next Permutation | https://leetcode.com/problems/next-permutation/ | Chirag-01 |
 | 20 | Merge Intervals | https://leetcode.com/problems/merge-intervals/ |
 | 21 | Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water/ |
 | 22 | Trapping Rain Water II | https://leetcode.com/problems/trapping-rain-water-ii/ |
@@ -70,7 +70,7 @@
 | 17 | Text Justification | https://leetcode.com/problems/text-justification/ |
 | 18 | Design a Text Editor | https://leetcode.com/problems/design-a-text-editor/ |
 | 19 | Integer to English Words | https://leetcode.com/problems/integer-to-english-words/ |
-| 20 | Implement Trie (Prefix Tree) | https://leetcode.com/problems/implement-trie-prefix-tree/ |
+| 20 | Implement Trie (Prefix Tree) | https://leetcode.com/problems/implement-trie-prefix-tree/ | GauravMKedia |
 
 ## LinkedList
 
@@ -79,7 +79,7 @@
 | --- | --- | --- | --- |
 | 1 | Implement Linked List in c | https://leetcode.com/problems/design-linked-list/ |Tanish1508|
 | 2 | Implement Linked List in c++ | https://leetcode.com/problems/design-linked-list/ | yash14agr |
-| 3 | Implement Linked List in java | https://leetcode.com/problems/design-linked-list/ |
+| 3 | Implement Linked List in java | https://leetcode.com/problems/design-linked-list/ | SahilChharra |
 | 4 | Implement Linked List in python | https://leetcode.com/problems/design-linked-list/ |
 | 5 | Reverse Linked List | https://leetcode.com/problems/reverse-linked-list/ | yash14agr |
 | 6 | Reverse Linked List II | https://leetcode.com/problems/reverse-linked-list-ii/ |
