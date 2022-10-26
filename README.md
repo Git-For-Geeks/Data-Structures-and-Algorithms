@@ -8,6 +8,7 @@
 
 ## Rules :
 
+- Everyone will get easy tag from 24th October on this REPO
 - To earn Git-For-Geeks participation certificate, you must **register** and make **4 valid pull requests** (PRs) between October 20-29 (in any time zone).
 - Pull requests can be made in any repository of Git-For-Geeks organizations.
 - Pull requests must be approved by a maintainer of the repository/project to count.
