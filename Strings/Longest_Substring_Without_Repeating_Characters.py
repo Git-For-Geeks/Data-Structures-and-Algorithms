@@ -22,6 +22,5 @@ str = "hacktoberfestfest"
 print("The input is ", str)
 
 len = longestUniqueSubsttr(str)
-print("The length of the longest "
-	"non-repeating character substring is ", len)
+print("The length of the longest ""non-repeating character substring is ", len)
 
