@@ -26,7 +26,7 @@
 | 4 | Two Sum | https://leetcode.com/problems/two-sum/ | MinalGhate |
 | 5 | 3Sum | https://leetcode.com/problems/3sum/ | yxshwxnt |
 | 6 | 3Sum Closest | https://leetcode.com/problems/3sum-closest/ |
-| 7 | 4Sum | https://leetcode.com/problems/4sum/ |
+| 7 | 4Sum | https://leetcode.com/problems/4sum/ | Chirag-01 |
 | 8 | Break a Palindrome | https://leetcode.com/problems/break-a-palindrome/ | SiddheshJawadi |
 | 9 | Multiply Matrices | https://practice.geeksforgeeks.org/problems/multiply-matrices/1 | abhashgoyal |
 | 10 | Subarray with given sum | https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1 | yxshwxnt |
@@ -83,7 +83,7 @@
 | 4 | Implement Linked List in python | https://leetcode.com/problems/design-linked-list/ | SahilChharra, viftergr |
 | 5 | Reverse Linked List | https://leetcode.com/problems/reverse-linked-list/ | yash14agr |
 | 6 | Reverse Linked List II | https://leetcode.com/problems/reverse-linked-list-ii/ | Sansgupta25 |
-| 7 | Reverse a Linked List in groups | https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1 |
+| 7 | Reverse a Linked List in groups | https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1 | yxshwxnt |
 | 8 | Union of Doubly Linked Lists | https://codeforces.com/problemset/problem/847/A |
 | 9 | Delete the Middle Node of a Linked List | https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/ | chandakrohit8 |
 | 10 | Delete Node in a Linked List | https://leetcode.com/problems/delete-node-in-a-linked-list/ | Sansgupta25 |
@@ -100,7 +100,7 @@
 | 4 | Implement Stack in python | https://leetcode.com/problems/build-an-array-with-stack-operations/ | Chirag-01 |
 | 5 | Valid Parentheses | https://leetcode.com/problems/valid-parentheses/ | chandakrohit8 |
 | 6 | Longest Valid Parentheses | https://leetcode.com/problems/longest-valid-parentheses/ | yash14agr, GauravMKedia |
-| 7 | Tower of Hanoi | https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1 | yxshwxnt |
+| 7 | Tower of Hanoi | https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1 | 
 | 8 | Next Greater Element II | https://leetcode.com/problems/next-greater-element-ii/ | jayasingh-14 |
 | 9 | Compilers and parsers | https://www.codechef.com/problems/COMPILER | Sansgupta25 |
 | 10 | MMASS - Mass of Molecule | https://www.spoj.com/problems/MMASS/ |
@@ -115,7 +115,7 @@
 | 3 | Implement Queue using array in Java | https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1 |
 | 4 | Implement Queue using array In Python | https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1 | viftergr |
 | 5 | Queue using two Stacks | https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1 | Sansgupta25 |
-| 6 | Implement Stack using Queues | https://leetcode.com/problems/implement-stack-using-queues/ |
+| 6 | Implement Stack using Queues | https://leetcode.com/problems/implement-stack-using-queues/ | Sansgupta25 |
 | 7 | Design Circular Queue | https://leetcode.com/problems/design-circular-queue/ | Chirag-01 |
 | 8 | Design Circular Deque | https://leetcode.com/problems/design-circular-deque/ | Chirag-01 |
 | 9 | Trapping Rain Water II | https://leetcode.com/problems/trapping-rain-water-ii/ |
@@ -159,7 +159,7 @@
 | Sr. no | Problem Name | Link | Assignee |
 | --- | --- | --- | --- |
 | 1 | BFS of graph in c | https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1 |
-| 2 | BFS of graph in c++ | https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1 |
+| 2 | BFS of graph in c++ | https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1 | srushti-dhakate-2210 |
 | 3 | BFS of graph in java | https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1 |
 | 4 | BFS of graph in python | https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1 |
 | 5 | DFS of Graph in c | https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1 |
@@ -192,7 +192,7 @@
 | 1 | Longest Palindromic Substring | https://leetcode.com/problems/longest-palindromic-substring/ | chandakrohit8
 | 2 | Generate Parentheses | https://leetcode.com/problems/generate-parentheses/ |
 | 3 | Coin Change | https://leetcode.com/problems/coin-change/ | viftergr |
-| 4 | Coin Change II | https://leetcode.com/problems/coin-change-ii/ |
+| 4 | Coin Change II | https://leetcode.com/problems/coin-change-ii/ | Chirag-01 |
 | 5 | Best Time to Buy and Sell Stock | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ |
 | 6 | Best Time to Buy and Sell Stock II | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ | yxshwxnt |
 | 7 | Best Time to Buy and Sell Stock III | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ |
@@ -209,9 +209,9 @@
 | 2 | Implement Linear Search in c++ | https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 | ayushtalpelwar |
 | 3 | Implement Linear Search in Java | https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 | MinalGhate |
 | 4 | Implement Linear Search in python | https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 | ayushtalpelwar |
-| 5 | Implement Binary Search in JavaScript | https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1 |
+| 5 | Implement Binary Search in JavaScript | https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1 | darshanChandan |
 | 6 | Implement Binary Search in c++ | https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1 | sahilhedau49, Mrugal4, Sansgupta25 |
-| 7 | Implement Binary Search in Java | https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1 |
+| 7 | Implement Binary Search in Java | https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1 | Pranav-69 |
 | 8 | Implement Binary Search in python | https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1 | Divyanshu256 |
 | 9 | Bubble Sort | https://practice.geeksforgeeks.org/problems/bubble-sort/1 | Nishantth1  |
 | 10 | Insertion Sort | https://practice.geeksforgeeks.org/problems/insertion-sort/1 | abhashgoyal |
@@ -222,6 +222,6 @@
 | 15 | Heap Sort | https://practice.geeksforgeeks.org/problems/heap-sort/1 | reemakhandelwal |
 | 16 | Counting Sort | https://practice.geeksforgeeks.org/problems/counting-sort/1 |
 | 17 | Sort Colors (Using Dutch Flag Algorithm) | https://leetcode.com/problems/sort-colors/ |yxshwxnt|
-| 18 | Banana | https://codeforces.com/contest/335/problem/A |
+| 18 | Banana | https://codeforces.com/contest/335/problem/A | RunTimeError02 |
 | 19 | The Rank | https://codeforces.com/problemset/problem/1017/A | SiddheshJawadi |
 | 20 | Concert Tickets | https://cses.fi/problemset/task/1091 | yash14agr |
