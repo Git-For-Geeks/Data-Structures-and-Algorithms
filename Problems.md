@@ -4,8 +4,8 @@
 
 | Sr. no | Problem Name | Link | Assignee |
 | --- | --- | --- | --- |
-| 1 | Paint the Numbers | https://codeforces.com/problemset/problem/1209/A | SiddheshJawadi |
-| 2 | k-Factorization | https://codeforces.com/problemset/problem/797/A | SiddheshJawadi |
+| 1 | Paint the Numbers | https://codeforces.com/problemset/problem/1209/A | SiddheshJawadi, RunTimeError02 |
+| 2 | k-Factorization | https://codeforces.com/problemset/problem/797/A | SiddheshJawadi, RunTimeError02 |
 | 3 | Excel Sheet Column Title | https://leetcode.com/problems/excel-sheet-column-title/ | srushti-dhakate-2210, DarshanRayala, reemakhandelwal |
 | 4 | Integer to Roman | https://leetcode.com/problems/integer-to-roman/ | srushti-dhakate-2210 |
 | 5 | Accumulation of Dominoes | https://codeforces.com/problemset/problem/1725/A | RunTimeError02, yashhh-03 |
@@ -35,7 +35,7 @@
 | 13 | Longest consecutive subsequence | https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1 | srushti-dhakate-2210 |
 | 14 | Sort the Matrix Diagonally | https://leetcode.com/problems/sort-the-matrix-diagonally/ | MinalGhate, Divyanshu256 |
 | 15 | Subsets II | https://leetcode.com/problems/subsets-ii/ |
-| 16 | Range Sum Query - Mutable | https://leetcode.com/problems/range-sum-query-mutable/ |
+| 16 | Range Sum Query - Mutable | https://leetcode.com/problems/range-sum-query-mutable/ | GauravMKedia |
 | 17 | Minimum Path Sum | https://leetcode.com/problems/minimum-path-sum/ | srushti-dhakate-2210 |
 | 18 | Design an ATM Machine | https://leetcode.com/problems/design-an-atm-machine/ | RunTimeError02 |
 | 19 | Next Permutation | https://leetcode.com/problems/next-permutation/ | Chirag-01 |
@@ -58,10 +58,10 @@
 | 5 | Excel Sheet Column Number | https://leetcode.com/problems/excel-sheet-column-number/ |  darshanChandan |
 | 6 | Excel Sheet Column Title | https://leetcode.com/problems/excel-sheet-column-title/ |
 | 7 | Verifying an Alien Dictionary | https://leetcode.com/problems/verifying-an-alien-dictionary/ |
-| 8 | Count Binary Substrings | https://leetcode.com/problems/count-binary-substrings/ |
+| 8 | Count Binary Substrings | https://leetcode.com/problems/count-binary-substrings/ | AkaniX3 |
 | 9 | Reformat The String | https://leetcode.com/problems/reformat-the-string/ |
 | 10 | Longest Ideal Subsequence | https://leetcode.com/problems/longest-ideal-subsequence/ | DarshanRayala |
-| 11 | Solve the Equation | https://leetcode.com/problems/solve-the-equation/ | abhashgoyal |
+| 11 | Solve the Equation | https://leetcode.com/problems/solve-the-equation/ | abhashgoyal, GauravMKedia |
 | 12 | Longest Substring with At Least K Repeating Characters | https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/ |
 | 13 | Restore IP Addresses | https://leetcode.com/problems/restore-ip-addresses/ | darshanChandan |
 | 14 | Last Substring in Lexicographical Order | https://leetcode.com/problems/last-substring-in-lexicographical-order/ |
@@ -100,7 +100,7 @@
 | 4 | Implement Stack in python | https://leetcode.com/problems/build-an-array-with-stack-operations/ | Chirag-01 |
 | 5 | Valid Parentheses | https://leetcode.com/problems/valid-parentheses/ | chandakrohit8 |
 | 6 | Longest Valid Parentheses | https://leetcode.com/problems/longest-valid-parentheses/ | yash14agr, GauravMKedia |
-| 7 | Tower of Hanoi | https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1 | 
+| 7 | Tower of Hanoi | https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1 | Divyanshu256 |
 | 8 | Next Greater Element II | https://leetcode.com/problems/next-greater-element-ii/ | jayasingh-14 |
 | 9 | Compilers and parsers | https://www.codechef.com/problems/COMPILER | Sansgupta25 |
 | 10 | MMASS - Mass of Molecule | https://www.spoj.com/problems/MMASS/ |
@@ -133,7 +133,7 @@
 | 4 | Preorder Traversal in python | https://leetcode.com/problems/binary-tree-preorder-traversal/ | 
 | 5 | Inorder Traversal in c | https://leetcode.com/problems/binary-tree-inorder-traversal/ |
 | 6 | Inorder Traversal in c++ | https://practice.geeksforgeeks.org/problems/inorder-traversal/1 |
-| 7 | Inorder Traversal in java | https://practice.geeksforgeeks.org/problems/inorder-traversal/1 |
+| 7 | Inorder Traversal in java | https://practice.geeksforgeeks.org/problems/inorder-traversal/1 | MinalGhate |
 | 8 | Inorder Traversal in python | https://practice.geeksforgeeks.org/problems/inorder-traversal/1 |
 | 9 | Postorder Traversal in c | https://leetcode.com/problems/binary-tree-postorder-traversal/ |
 | 10 | Postorder Traversal in c++ | https://practice.geeksforgeeks.org/problems/postorder-traversal/1 |
@@ -141,15 +141,15 @@
 | 12 | Postorder Traversal in python | https://practice.geeksforgeeks.org/problems/postorder-traversal/1 |
 | 13 | Level-order Traversal in c | https://leetcode.com/problems/binary-tree-level-order-traversal/ | reemakhandelwal  |
 | 14 | Level-order Traversal in c++ | https://practice.geeksforgeeks.org/problems/level-order-traversal/1 | Mrugal4 |
-| 15 | Level-order Traversal in java | https://practice.geeksforgeeks.org/problems/level-order-traversal/1 |
+| 15 | Level-order Traversal in java | https://practice.geeksforgeeks.org/problems/level-order-traversal/1 | MinalGhate |
 | 16 | Level-order Traversal in Python | https://practice.geeksforgeeks.org/problems/level-order-traversal/1 |
 | 17 | ZigZag Tree Traversal | https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1 |
-| 18 | Diameter of a Binary Tree | https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1 |
+| 18 | Diameter of a Binary Tree | https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1 | Divyanshu256 |
 | 19 | Kth largest element in BST | https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1 |
 | 20 | Lowest Common Ancestor in a Binary Tree | https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1 |
 | 21 | Extreme nodes in alternate order | https://practice.geeksforgeeks.org/problems/extreme-nodes-in-alternate-order/1 |
 | 22 | Recover a Tree From Preorder Traversal | https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/ |
-| 23 | Merge two BST 's | https://practice.geeksforgeeks.org/problems/merge-two-bst-s/1 |
+| 23 | Merge two BST 's | https://practice.geeksforgeeks.org/problems/merge-two-bst-s/1 | yash14agr |
 | 24 | Number Of Ways To Reconstruct A Tree | https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/ | yash14agr, GauravMKedia |
 | 25 | Kth Ancestor of a Tree Node | https://leetcode.com/problems/kth-ancestor-of-a-tree-node/ | srushti-dhakate-2210 |
 
@@ -178,7 +178,7 @@
 | 18 | Shortest Path by Removing K walls | https://practice.geeksforgeeks.org/problems/shortest-path-by-removing-k-walls/1 |
 | 19 | Find number of closed islands | https://practice.geeksforgeeks.org/problems/find-number-of-closed-islands/1 |
 | 20 | Longest Cycle in a Graph | https://leetcode.com/problems/longest-cycle-in-a-graph/ | DarshanRayala, Chirag-01 |
-| 21 | Min Cost to Connect All Points by prims | https://leetcode.com/problems/min-cost-to-connect-all-points/ |
+| 21 | Min Cost to Connect All Points by prims | https://leetcode.com/problems/min-cost-to-connect-all-points/ | reemakhandelwal |
 | 22 | Min Cost to Connect All Points by kruskal | https://leetcode.com/problems/min-cost-to-connect-all-points/ | Chirag-01 |
 | 23 | Sequence Reconstruction | • https://leetcode.com/problems/sequence-reconstruction/ |
 | 24 | Network delay time | https://leetcode.com/problems/network-delay-time/ |
