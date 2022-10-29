@@ -1,0 +1,68 @@
+// Problem Link: https://practice.geeksforgeeks.org/problems/circular-linked-list/1
+
+#include<bits/stdc++.h>
+using namespace std;
+
+/* Link list Node */
+struct Node{
+    int data;
+    struct Node* next;
+    Node(int x){
+        data = x;
+        next = NULL;
+    }
+};
+
+/* Link list Node 
+struct Node
+{
+    int data;
+    struct Node* next;
+    
+    Node(int x){
+        data = x;
+        next = NULL;
+    }
+    
+}; 
+*/
+
+/* Should return true if linked list is circular, else false */
+bool isCircular(Node *head){
+    if(head==NULL){
+        return NULL; 
+    }
+    struct Node* temp=head->next; 
+    while(temp!=NULL && temp!=head){
+        temp=temp->next; 
+    }
+    if(head==temp){
+        return true;
+    }
+    return false; 
+}
+
+
+int main(){
+    int T,i,n,l,k;
+    // cin>>T; 
+    int t=1; 
+    while(T--){
+        cin>>n>>k;
+	    Node *head=NULL, *tail = NULL;
+	    int x;
+	    cin >> x;
+	    head = new Node(x);
+	    tail = head;
+	    for(int i=0;i<n-1;i++){
+	        cin>>x;
+	        tail -> next = new Node(x);
+	        tail = tail -> next;
+	    }
+        if (k==1 && n >= 1)
+              tail->next = head;
+    printf("%d\n", isCircular(head));
+    }
+    return 0;
+}
+
