@@ -61,10 +61,10 @@ int main(){
     p1->left = p3;
     p1->right = p4;
 
-    // preOrder(p);
-    // printf("\n");
-    // postOrder(p);
-    // printf("\n");
+    preOrder(p);
+    printf("\n");
+    postOrder(p);
+    printf("\n");
     inOrder(p);
     return 0;
 }
