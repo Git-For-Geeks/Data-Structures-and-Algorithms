@@ -1,8 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-/* A binary tree node has data, pointer to left child
-and a pointer to right child */
 struct Node {
 	int data;
 	struct Node *left, *right;
