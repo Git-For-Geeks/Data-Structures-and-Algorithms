@@ -42,7 +42,7 @@ For your PR to count, it must be:
 ## Important Links
 
 - Problems : https://github.com/Git-For-Geeks/Data-Structures-and-Algorithms/blob/main/Problems.md
-- LeaderBoard : https://adorable-scone-a2f25a.netlify.app/
+- LeaderBoard : https://gitforgeeks.netlify.app/
 
 ## Steps For Contribution
 ```
